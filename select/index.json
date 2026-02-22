@@ -1,16 +1,160 @@
 {
   "version": 1,
-  "base_track": "ki ki kai kai（feat. GUMI）VideoAudio",
+  "base_track": "ki ki kai kai",
   "base_artist": "sasakure.UK",
-  "createdAt": "2026-02-22T13:31:15.440935Z",
+  "createdAt": "2026-02-22T13:34:52.104814Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ki ki kai kai",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/01_ki_ki_kai_kai_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ki ki kai kai",
+      "artist": "sasakure.UK feat. GUMI",
+      "has_synced": true,
+      "path": "select/02_ki_ki_kai_kai_sasakure.UK_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ki ki kai kai (feat. GUMI)",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/03_ki_ki_kai_kai_(feat._GUMI)_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ki ki kai kai",
+      "artist": "sasakure.UK feat. GUMI",
+      "has_synced": false,
+      "path": "select/04_ki_ki_kai_kai_sasakure.UK_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KI-KI (feat. ENNY)",
+      "artist": "YEИDRY feat. ENNY",
+      "has_synced": true,
+      "path": "select/05_KI-KI_(feat._ENNY)_YEИDRY_feat._ENNY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ko Ki Ki",
+      "artist": "Dvar",
+      "has_synced": false,
+      "path": "select/06_Ko_Ki_Ki_Dvar.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mohabbat Ki Ki",
+      "artist": "Suresh Wadkar,Kavita Krishnamurthy",
+      "has_synced": true,
+      "path": "select/07_Mohabbat_Ki_Ki_Suresh_Wadkar,Kavita_Krishnamurthy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mohabbat Ki Ki",
+      "artist": "Suresh Wadkar, Kavita Krishnamurthy",
+      "has_synced": true,
+      "path": "select/08_Mohabbat_Ki_Ki_Suresh_Wadkar,_Kavita_Krishnamurthy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "KI-KI (feat. ENNY)",
+      "artist": "YEИDRY ,ENNY",
+      "has_synced": true,
+      "path": "select/09_KI-KI_(feat._ENNY)_YEИDRY_,ENNY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "El Ki Ki Ki",
+      "artist": "Rikarena",
+      "has_synced": true,
+      "path": "select/10_El_Ki_Ki_Ki_Rikarena.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KI-KI",
+      "artist": "YEИDRY / ENNY / ENNY",
+      "has_synced": true,
+      "path": "select/11_KI-KI_YEИDRY___ENNY___ENNY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ki Ki Tainu Dukh Dasiye",
+      "artist": "Harbhajan Shera",
+      "has_synced": false,
+      "path": "select/12_Ki_Ki_Tainu_Dukh_Dasiye_Harbhajan_Shera.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "KI-KI",
+      "artist": "YEИDRY",
+      "has_synced": false,
+      "path": "select/13_KI-KI_YEИDRY.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "KI-KI",
+      "artist": "YEИDRY feat. ENNY",
+      "has_synced": true,
+      "path": "select/14_KI-KI_YEИDRY_feat._ENNY.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "KI-KI (feat. ENNY)",
+      "artist": "YEИDRY",
+      "has_synced": true,
+      "path": "select/15_KI-KI_(feat._ENNY)_YEИDRY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ki Ki Kí - Co Co Có",
+      "artist": "Payasitas Nifu Nifa",
+      "has_synced": false,
+      "path": "select/16_Ki_Ki_Kí_-_Co_Co_Có_Payasitas_Nifu_Nifa.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "El Ki Ki Ki",
+      "artist": "Vaquero's Musical",
+      "has_synced": true,
+      "path": "select/17_El_Ki_Ki_Ki_Vaquero's_Musical.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ki Ki Ki (With MIIII) (Instrumental)",
+      "artist": "Ben",
+      "has_synced": false,
+      "path": "select/18_Ki_Ki_Ki_(With_MIIII)_(Instrumental)_Ben.txt"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ki ki kai kai (feat. GUMI)",
+      "title": "ki ki kai kai feat. GUMI",
       "artist": "sasakure.UK",
       "has_synced": false,
-      "path": "select/pl_01_ki_ki_kai_kai_(feat._GUMI)_sasakure.UK.txt"
+      "path": "select/pl_01_ki_ki_kai_kai_feat._GUMI_sasakure.UK.txt"
     }
   ]
 }
